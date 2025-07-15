@@ -1,0 +1,531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|c:\\databases2\\vsprojects\\aplikacja2\\edycja_projektu_szcz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:edycja_projektu_szcz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|c:\\databases2\\vsprojects\\aplikacja2\\edycja_projektu_szcz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:edycja_projektu_szcz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_temat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:wyszukaj_projekt_temat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_projekt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:dodaj_projekt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekt_szczegoly_temat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:projekt_szczegoly_temat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|c:\\databases2\\vsprojects\\aplikacja2\\projekt_szczegoly_temat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:projekt_szczegoly_temat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projetk_szczegoly_nr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:projetk_szczegoly_nr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_temat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:wyszukaj_projekt_temat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_nr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:wyszukaj_projekt_nr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projetk_szczegoly_nr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:projetk_szczegoly_nr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wykaz_projektow.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:wykaz_projektow.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_rodzaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:edytuj_rodzaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_status.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:dodaj_status.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:edytuj_status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_rodzaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:edytuj_rodzaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_projekt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:edytuj_projekt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:projekty_wg_status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_rodzaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:projekty_wg_rodzaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_status.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:projekty_wg_status.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_projekt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:dodaj_projekt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_status.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:edytuj_status.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_rodzaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:dodaj_rodzaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:dodaj_status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_rodzaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:dodaj_rodzaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\strona_glowna.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:strona_glowna.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|C:\\DATABASES2\\vsprojects\\APLIKACJA2\\strona_glowna.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9452B948-95DB-471D-A294-51FCCB2DB26E}|APLIKACJA2.csproj|solutionrelative:strona_glowna.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wyszukaj_projekt_temat.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_temat.aspx.cs",
+              "RelativeDocumentMoniker": "wyszukaj_projekt_temat.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_temat.aspx.cs",
+              "RelativeToolTip": "wyszukaj_projekt_temat.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:35:28.378Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edycja_projektu_szcz.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edycja_projektu_szcz.aspx.cs",
+              "RelativeDocumentMoniker": "edycja_projektu_szcz.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edycja_projektu_szcz.aspx.cs",
+              "RelativeToolTip": "edycja_projektu_szcz.aspx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:18:23.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edycja_projektu_szcz.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edycja_projektu_szcz.aspx",
+              "RelativeDocumentMoniker": "edycja_projektu_szcz.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edycja_projektu_szcz.aspx",
+              "RelativeToolTip": "edycja_projektu_szcz.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-15T17:57:23.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projekt_szczegoly_temat.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekt_szczegoly_temat.aspx.cs",
+              "RelativeDocumentMoniker": "projekt_szczegoly_temat.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekt_szczegoly_temat.aspx.cs",
+              "RelativeToolTip": "projekt_szczegoly_temat.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:44:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "projekt_szczegoly_temat.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekt_szczegoly_temat.aspx",
+              "RelativeDocumentMoniker": "projekt_szczegoly_temat.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekt_szczegoly_temat.aspx",
+              "RelativeToolTip": "projekt_szczegoly_temat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-08T16:30:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "wyszukaj_projekt_temat.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_temat.aspx",
+              "RelativeDocumentMoniker": "wyszukaj_projekt_temat.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_temat.aspx",
+              "RelativeToolTip": "wyszukaj_projekt_temat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-08T16:28:49.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "wyszukaj_projekt_nr.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_nr.aspx",
+              "RelativeDocumentMoniker": "wyszukaj_projekt_nr.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wyszukaj_projekt_nr.aspx",
+              "RelativeToolTip": "wyszukaj_projekt_nr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-08T15:34:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.sitemap",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\Web.sitemap",
+              "RelativeDocumentMoniker": "Web.sitemap",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\Web.sitemap",
+              "RelativeToolTip": "Web.sitemap",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
+              "WhenOpened": "2025-05-25T23:21:27.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dodaj_projekt.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_projekt.aspx",
+              "RelativeDocumentMoniker": "dodaj_projekt.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_projekt.aspx",
+              "RelativeToolTip": "dodaj_projekt.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:19:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "projetk_szczegoly_nr.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projetk_szczegoly_nr.aspx",
+              "RelativeDocumentMoniker": "projetk_szczegoly_nr.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projetk_szczegoly_nr.aspx",
+              "RelativeToolTip": "projetk_szczegoly_nr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-08T16:00:17.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "projetk_szczegoly_nr.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projetk_szczegoly_nr.aspx.cs",
+              "RelativeDocumentMoniker": "projetk_szczegoly_nr.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projetk_szczegoly_nr.aspx.cs",
+              "RelativeToolTip": "projetk_szczegoly_nr.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:21:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "edytuj_rodzaj.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_rodzaj.aspx.cs",
+              "RelativeDocumentMoniker": "edytuj_rodzaj.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_rodzaj.aspx.cs",
+              "RelativeToolTip": "edytuj_rodzaj.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:01:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dodaj_status.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_status.aspx.cs",
+              "RelativeDocumentMoniker": "dodaj_status.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_status.aspx.cs",
+              "RelativeToolTip": "dodaj_status.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:48:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "edytuj_rodzaj.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_rodzaj.aspx",
+              "RelativeDocumentMoniker": "edytuj_rodzaj.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_rodzaj.aspx",
+              "RelativeToolTip": "edytuj_rodzaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:18:07.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dodaj_projekt.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_projekt.aspx.cs",
+              "RelativeDocumentMoniker": "dodaj_projekt.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_projekt.aspx.cs",
+              "RelativeToolTip": "dodaj_projekt.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:27:26.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "edytuj_status.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_status.aspx",
+              "RelativeDocumentMoniker": "edytuj_status.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_status.aspx",
+              "RelativeToolTip": "edytuj_status.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:18:41.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "wykaz_projektow.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wykaz_projektow.aspx",
+              "RelativeDocumentMoniker": "wykaz_projektow.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\wykaz_projektow.aspx",
+              "RelativeToolTip": "wykaz_projektow.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:16:37.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "projekty_wg_status.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_status.aspx.cs",
+              "RelativeDocumentMoniker": "projekty_wg_status.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_status.aspx.cs",
+              "RelativeToolTip": "projekty_wg_status.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:24:26.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "projekty_wg_rodzaj.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_rodzaj.aspx",
+              "RelativeDocumentMoniker": "projekty_wg_rodzaj.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_rodzaj.aspx",
+              "RelativeToolTip": "projekty_wg_rodzaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:19:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "projekty_wg_status.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_status.aspx",
+              "RelativeDocumentMoniker": "projekty_wg_status.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\projekty_wg_status.aspx",
+              "RelativeToolTip": "projekty_wg_status.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:20:05.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "edytuj_projekt.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_projekt.aspx",
+              "RelativeDocumentMoniker": "edytuj_projekt.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_projekt.aspx",
+              "RelativeToolTip": "edytuj_projekt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:20:52.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "edytuj_status.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_status.aspx.cs",
+              "RelativeDocumentMoniker": "edytuj_status.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\edytuj_status.aspx.cs",
+              "RelativeToolTip": "edytuj_status.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:05:16.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dodaj_rodzaj.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_rodzaj.aspx",
+              "RelativeDocumentMoniker": "dodaj_rodzaj.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_rodzaj.aspx",
+              "RelativeToolTip": "dodaj_rodzaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:17:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dodaj_status.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_status.aspx",
+              "RelativeDocumentMoniker": "dodaj_status.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_status.aspx",
+              "RelativeToolTip": "dodaj_status.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T23:17:36.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "strona_glowna.aspx",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\strona_glowna.aspx",
+              "RelativeDocumentMoniker": "strona_glowna.aspx",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\strona_glowna.aspx",
+              "RelativeToolTip": "strona_glowna.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T15:47:43.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "master.Master",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\master.Master",
+              "RelativeDocumentMoniker": "master.Master",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\master.Master",
+              "RelativeToolTip": "master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T15:22:30.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-26T13:25:47.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dodaj_rodzaj.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_rodzaj.aspx.cs",
+              "RelativeDocumentMoniker": "dodaj_rodzaj.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\dodaj_rodzaj.aspx.cs",
+              "RelativeToolTip": "dodaj_rodzaj.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:05:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "strona_glowna.aspx.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\strona_glowna.aspx.cs",
+              "RelativeDocumentMoniker": "strona_glowna.aspx.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\strona_glowna.aspx.cs",
+              "RelativeToolTip": "strona_glowna.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:48:30.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "master.Master.cs",
+              "DocumentMoniker": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\master.Master.cs",
+              "RelativeDocumentMoniker": "master.Master.cs",
+              "ToolTip": "C:\\DATABASES2\\vsprojects\\APLIKACJA2\\master.Master.cs",
+              "RelativeToolTip": "master.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:45:39.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
